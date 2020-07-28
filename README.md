@@ -1,4 +1,4 @@
-# hm-toutiao-pic
+# wl-toutiao-pic
 
 ## Project setup
 ```
